@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Tehran'
+TIME_ZONE = 'Iran'
 
 USE_I18N = True
 
